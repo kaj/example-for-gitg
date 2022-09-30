@@ -1,2 +1,2 @@
 # example-for-gitg
-Just some example commits.
+Just some simple example commits.
